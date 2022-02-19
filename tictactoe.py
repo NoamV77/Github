@@ -11,6 +11,8 @@ RANDOM_SIZES = [3, 3, 3, 3, 3, 3, 4, 4, 4, 4, 5, 5, 6]
 Player = str
 Board = list[list]
 Coords = tuple[int, int]
+
+print("\nThis here marks the new branch: Checkers\n")
    
 
 def create_board(size: int) -> Board:
