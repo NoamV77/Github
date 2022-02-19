@@ -4,5 +4,5 @@ I have made my first commits in this repository.
 
 Purpose:
 The purpose of the code tictactoe.py is to allow 
-the user to play a game of tictactoe.
+the user to play a game of tic tac toe.
 
