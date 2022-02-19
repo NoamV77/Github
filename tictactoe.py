@@ -11,7 +11,7 @@ RANDOM_SIZES = [3, 3, 3, 3, 3, 3, 4, 4, 4, 4, 5, 5, 6]
 Player = str
 Board = list[list]
 Coords = tuple[int, int]
-
+   
 
 def create_board(size: int) -> Board:
     """
